@@ -18,3 +18,7 @@
 * How far I would go to debug this thing? Very good question, very good question
 
   <img width="2497" height="571" alt="image" src="https://github.com/user-attachments/assets/6666cddd-a132-4162-aea8-860171a92cba" />
+
+* Of course `bash` is the greatest
+
+  <img width="1497" height="239" alt="image" src="https://github.com/user-attachments/assets/6d5ba04d-9722-4ed8-90bc-f69d40f62270" />
