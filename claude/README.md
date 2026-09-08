@@ -22,3 +22,7 @@
 * Of course `bash` is the greatest
 
   <img width="1497" height="239" alt="image" src="https://github.com/user-attachments/assets/6d5ba04d-9722-4ed8-90bc-f69d40f62270" />
+
+* Very good question, `claude`, very good question!
+
+  <img width="796" height="30" alt="image" src="https://github.com/user-attachments/assets/0bdb4dd2-c254-4626-98a2-a94adcf48286" />
