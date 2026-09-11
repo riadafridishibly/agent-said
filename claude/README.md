@@ -30,3 +30,7 @@
 * Good job!
 
   <img width="1504" height="188" alt="image" src="https://github.com/user-attachments/assets/3947b2d0-0e9e-495a-932e-a4bc45f0945f" />
+
+* Well well well
+
+  <img width="1093" height="79" alt="image" src="https://github.com/user-attachments/assets/6ddfd14c-9cf2-4ef0-b755-9ae7768132ec" />
