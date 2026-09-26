@@ -39,3 +39,7 @@
 
   <img width="1136" height="760" alt="image" src="https://github.com/user-attachments/assets/980f83a2-ebca-4c30-a346-d8297e840752" />
 
+* Nice branch naming
+
+  <img width="730" height="83" alt="image" src="https://github.com/user-attachments/assets/c1d7e7b5-21fa-4472-a681-fe84ac198063" />
+
